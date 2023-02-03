@@ -11,5 +11,5 @@ Retrieve Data
 Overview
 --------
 
-You can use read operations to retrieve data from your MongoDB database.
+You can use read operations to retrieve data from your MongoDB deployment.
 

@@ -1,0 +1,15 @@
+=============
+Retrieve Data
+=============
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
+
+Overview
+--------
+
+You can use read operations to retrieve data from your MongoDB database.
+
